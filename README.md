@@ -127,9 +127,7 @@ llm-political-bias/
 ├── data/
 │   ├── ChatGPT_data_1.csv      judge scores for ChatGPT's 70 paragraphs
 │   └── DeepSeek_data_1.csv     judge scores for DeepSeek's 70 paragraphs
-└── prompts/
-    ├── generation_prompt.txt   Step 1 prompt
-    └── judge_prompt.txt        Step 2 prompt
+
 ```
 
 ## What I found
